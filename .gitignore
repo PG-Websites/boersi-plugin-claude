@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# OS / Editor
+.DS_Store
+.claude/
+.vscode/
+.idea/
+
+# Secrets / lokale Env (gehoeren NIE in diese oeffentliche Huelle)
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+*.pem
+.secrets/

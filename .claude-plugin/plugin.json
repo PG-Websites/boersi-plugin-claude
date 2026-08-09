@@ -1,0 +1,12 @@
+{
+  "name": "boersi",
+  "version": "0.1.0",
+  "description": "Boersi Finanz-Dossier-Datenbank: strukturierte Fakten zu Aktien, ETFs und weiteren Wertpapieren — 30 Sektionen pro Firma (Stammdaten, Kennzahlen, Bilanz, Governance, ESG u. a.), jeweils mit Stichtag (as_of_date). Reine Faktenauskunft, KEINE Anlageberatung, keine Empfehlungen oder Kursziele (§32).",
+  "author": {
+    "name": "Boersi",
+    "url": "https://boersi.eu"
+  },
+  "homepage": "https://boersi.eu",
+  "license": "MIT",
+  "keywords": ["finance", "stocks", "equity", "dossier", "mcp", "research"]
+}

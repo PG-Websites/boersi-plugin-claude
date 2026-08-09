@@ -1,0 +1,9 @@
+{
+  "_comment": "Remote-MCP-Connector fuer den gehosteten Boersi-Server (Streamable HTTP). Die URL wird nicht hartkodiert: setze die Env-Variable BOERSI_MCP_URL auf https://mcp.boersi.eu/mcp. Auth: OAuth 2.1 mit PKCE — der Login-/Consent-Flow startet beim ersten Verbinden automatisch; es gehoeren KEINE Tokens oder Zugangsdaten in diese Datei.",
+  "mcpServers": {
+    "boersi": {
+      "type": "http",
+      "url": "${BOERSI_MCP_URL}"
+    }
+  }
+}
