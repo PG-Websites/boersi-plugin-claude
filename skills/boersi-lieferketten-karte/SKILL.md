@@ -70,7 +70,7 @@ ein Fehler.
   mehrstufiges Netz zu zeichnen — das wäre Bulk-Nutzung. Eine Karte = eine Firma.
 - **Keine Risikobewertung als Anlageurteil (§32).** Abhängigkeiten und Klumpenrisiken sind Fakten
   aus der Offenlegung. Keine Schlussfolgerung auf Kurs, Bewertung oder Kauf/Verkauf.
-- **Keine Quellen im Output.** Der Stichtag ist der Beleg.
+- **Keine Quellen im Output.**
 
 ## Beispiele
 

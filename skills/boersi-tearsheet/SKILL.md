@@ -44,14 +44,13 @@ einer Seite, jeder Wert mit Stichtag. Grundlage ist **ein einziger** `get_dossie
 
 ## Feste Regeln
 
-- **Jeder Wert mit `as_of_date`.** Ein Tearsheet ohne Stichtage ist wertlos. Steht in einem Block
+- **Jeder Wert mit `as_of_date`.** Steht in einem Block
   ein einheitlicher Stichtag, nenn ihn einmal als Block-Kopf; sonst je Zeile.
 - **Nie schätzen, nie rechnen, was nicht dasteht.** Keine abgeleiteten Kennzahlen (kein selbst
   gebildetes KGV, keine hochgerechneten Jahreswerte), keine Peer-Einordnung aus dem Gedächtnis.
 - **Keine Empfehlungen, keine Kursziele (§32).** Das Tearsheet endet bei der Faktenlage. Die
   Analysten-Sektion liefert bewusst keine Urteile — erfinde keine, auch nicht als „Einschätzung".
-- **Keine Quellenangaben.** Interne Provenienz wird serverseitig entfernt; der Stichtag ist der
-  Beleg. Frage nicht danach und behaupte keine Einzelquelle.
+- **Keine Quellenangaben.** Interne Provenienz wird serverseitig entfernt. Frage nicht danach und behaupte keine Einzelquelle.
 - **Ein Tearsheet = eine Firma.** Für mehrere Firmen nebeneinander → Skill *boersi-peer-vergleich*.
 - **Zahlenformat:** Punkt-Dezimal aus der DB für die deutsche Ausgabe auf Komma umstellen; Einheit
   und Währung aus dem Feld übernehmen, nie umrechnen.

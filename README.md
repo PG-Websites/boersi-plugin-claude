@@ -1,7 +1,7 @@
 # Boersi — Claude-Plugin
 
 Verbindet Claude mit der **Boersi Finanz-Dossier-Datenbank**: strukturierte Fakten zu
-Aktien, ETFs und weiteren Wertpapieren — je Firma und **immer mit Stichtag**.
+Aktien, ETFs und weiteren Wertpapieren — je Firma.
 
 Das Plugin ist eine dünne Hülle. Es enthält keinen Backend-Code, keine Daten und keine
 Zugangsdaten; es verweist per URL auf den gehosteten Boersi-Server.
@@ -56,11 +56,10 @@ Die fünf Aufgaben-Skills bauen auf den beiden Grundlagen-Skills auf.
   sind pro Seite begrenzt und werden seitenweise durchgereicht.
 - **Keine Anlageberatung.** Empfehlungen, Kursziele und Anlageurteile werden serverseitig
   herausgefiltert (§32 KWG).
-- **Jeder Wert mit Stichtag.** Je Feld werden nur der Wert und sein Stichtag ausgeliefert.
 - **Anmeldung über OAuth 2.1** mit PKCE. Tokens hält dein Client, nicht das Plugin.
 - **Datenhaltung in der EU.**
 
-**Datenschutzerklärung:** https://boersi.app/rechtliches/datenschutz
+**Datenschutzerklärung (Privacy Policy):** https://boersi.app/rechtliches/datenschutz
 
 Bei der Nutzung verarbeitet Boersi deine Kontoidentität und Plan-Stufe, Nutzungs-Metadaten
 je Tool-Aufruf (Zeitpunkt, Tool, Ergebnis, abgefragtes Wertpapier) sowie Verbrauchszähler.

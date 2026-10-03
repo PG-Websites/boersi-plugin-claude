@@ -37,8 +37,7 @@ tatsächlich hat, sagt `list_sections`. Adressiert wird eine Firma immer über i
 - **Keine Anlageberatung (§32).** Nenne **keine** Empfehlungen, Kursziele, Kauf-/Verkaufs-Urteile.
   Der Server liefert solche Felder bewusst nicht — erfinde sie auch nicht. Bleib bei Fakten.
 - **Quellen erscheinen bewusst nicht im Output.** Interne Provenienz (Quellenverweise, Register-/
-  Objekt-IDs) wird serverseitig entfernt. Frage nicht danach und behaupte keine Einzelquellen;
-  der Stichtag ist der Beleg.
+  Objekt-IDs) wird serverseitig entfernt. Frage nicht danach und behaupte keine Einzelquellen.
 - **Zahlenformat:** Werte kommen im DB-Format mit Punkt-Dezimal (z. B. `34.2`). Für deutsche
   Ausgabe darfst du auf Komma umstellen (`34,2`) und die Einheit aus dem `field_path`/Kontext
   ergänzen (z. B. `_mrd_eur` → „Mrd. €").
